@@ -1,0 +1,7 @@
+baseURL = "www.hanedan.io"
+languageCode = "en-us"
+title = "My Blog"
+theme = "tokiwa"
+
+[params]
+  description = "This is my personal blog."

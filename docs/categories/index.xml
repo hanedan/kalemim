@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My Blog</title>
+    <link>http://localhost:59546/kalemim/categories/</link>
+    <description>Recent content in Categories on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:59546/kalemim/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kitaplar</title>
+      <link>http://localhost:59546/kalemim/categories/kitaplar/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59546/kalemim/categories/kitaplar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mavi Ve Kırmızı</title>
+      <link>http://localhost:59546/kalemim/categories/mavi-ve-k%C4%B1rm%C4%B1z%C4%B1/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59546/kalemim/categories/mavi-ve-k%C4%B1rm%C4%B1z%C4%B1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Şarkılar</title>
+      <link>http://localhost:59546/kalemim/categories/%C5%9Fark%C4%B1lar/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59546/kalemim/categories/%C5%9Fark%C4%B1lar/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

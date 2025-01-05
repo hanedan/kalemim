@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kitaplar on My Blog</title>
+    <link>http://localhost:59546/kalemim/categories/kitaplar/</link>
+    <description>Recent content in Kitaplar on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:59546/kalemim/categories/kitaplar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Book Review</title>
+      <link>http://localhost:59546/kalemim/posts/my-first-book-review/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59546/kalemim/posts/my-first-book-review/</guid>
+      <description>&lt;p&gt;This is a review of my favorite book.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

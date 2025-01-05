@@ -1,4 +1,4 @@
-baseURL = "www.hanedan.io"
+baseURL = "https://hanedan.github.io/kalemim/"
 languageCode = "en-us"
 title = "My Blog"
 theme = "tokiwa"

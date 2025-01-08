@@ -18,7 +18,11 @@ style = "monokailight"
   tag = "tags"
 
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]  # Ensure "HTML" is included for the homepage
+section = ["HTML"]
+taxonomy = ["HTML"]
+taxonomyTerm = ["HTML"]
+
 
 [[menu.main]]
 name = "Categories"
